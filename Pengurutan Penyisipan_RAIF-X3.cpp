@@ -40,5 +40,4 @@ void Insertion_Sort ( int array[], int length)
             cout << " " << array[j];
        }
        cout << endl;
-      }
 }
